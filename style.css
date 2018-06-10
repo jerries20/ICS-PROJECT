@@ -19,3 +19,7 @@ href {
     color:red;
     font-family: fantasy;
 }
+
+img {
+    float: center;
+}
